@@ -1,0 +1,7 @@
+coremltools
+onnx
+onnx2torch
+torch
+numpy
+onnxruntime
+pillow
